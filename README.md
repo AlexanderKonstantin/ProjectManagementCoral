@@ -1,7 +1,10 @@
 # Mar Organica's Project - Importing Natural Coral
+![Birdsnest Coral](apihkksda__15423.1593832392.jpg)
+
 
 ## Project Overview
 
+# Project Manager: Konstantin Kazmierski
 The project objective is to import natural coral from the
 Solomon Islands, meeting market demand sustainably while complying
 with international regulations, notably CITES, to ensure ecological
